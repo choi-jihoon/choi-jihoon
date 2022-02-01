@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Fiona. 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-jihoon)](https://github.com/anuraghazra/github-readme-stats)
 
