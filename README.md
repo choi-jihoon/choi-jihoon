@@ -1,6 +1,6 @@
 ### Hi there! I'm Fiona. 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-jihoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-jihoon&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **choi-jihoon/choi-jihoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
