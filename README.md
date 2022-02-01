@@ -1,6 +1,4 @@
 ### Hi there! I'm Fiona. 👋
-I wrote my first line of code in July 2021, and began my journey on becoming a full stack software engineer in September 2021 at App Academy.
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-jihoon)](https://github.com/anuraghazra/github-readme-stats)
 
