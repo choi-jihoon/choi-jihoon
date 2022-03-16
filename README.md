@@ -2,6 +2,8 @@
 
 I'm a middle school Mathematics teacher turned Software Engineer.
 
+Pivoting from problem solving to engage students in the classroom to problem solving to engage users through code.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-jihoon&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me!
